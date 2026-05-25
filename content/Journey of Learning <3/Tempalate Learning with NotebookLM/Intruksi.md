@@ -1,0 +1,1 @@
+Ikuti instruksi dari Source dari [Nama File] yang sudah saya simpan dan upload itu, dan mulai dari sana.
