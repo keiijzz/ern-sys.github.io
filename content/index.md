@@ -42,9 +42,10 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 # To Do Nusa Putra x KMTech 
 *Sebuah To Do yang men-track Pekerjaan yang berada di KMTech dan Nusa Putra*
 
-- [ ] CCTV FK Building and Internet Progress
+- [x] CCTV FK Building and Internet Progress
 - [ ] Implementation FreeRadius at Universitas Nusa Putra
 - [ ] Implement Docker in Server Proxmox Nusa Putra
+- [ ] Implements OSPF to Gd A
 - [x] Installing CCTV at Genus Building
 - [x] Reverse Proxy with Nginx NPM in Proxmox Universitas Nusa Putra
 	- [x] Installing Docker
@@ -63,9 +64,10 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [x] Setup Quartz & GitHub Pages
 - [x] Automasi Backup MikroTik via Python
 - [x] Latihan Writing IELTS Task 1
-- [ ] Mastering Linux CLI + Bash Scripting
-- [ ] Get TEOFL Certified and i can apply to Scholarship Program
-- [ ] Learn IaC (Infrastructure as Code)
+- [x] Mastering Linux CLI + Bash Scripting
+- [x] Get TEOFL Certified and i can apply to Scholarship Program
+- [x] Learn IaC (Infrastructure as Code)
+- [ ] Learning Cloud/DevOps with NotebookLM : **Network Programmability and Automation Skills**
 ---
 *Last Updated: 2026-04-15*
 
@@ -77,6 +79,7 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 [[Pendataan Infocus Universitas Nusa Putra|PEMERIKSAAN INFOCUS NUSA PUTRA UNIVERSITY]]    
 [[Limitasi Jaringan di Universitas Nusa Putra - VLAN10.VLAN11.VLAN12.VLAN13]]   
 [[NPM Nginx (Reverse Proxy with One IP Public)]]
+[[Implements OSPF to Gd A]]
 
 # My Learning of Journey
 [[Welcome, Docker!]]  
@@ -85,3 +88,4 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 [[Permission and User Groups]]  
 [[Permission and Group Part II]]  
 [[20 Apr 2026 - Permission And User Groups]]  
+
