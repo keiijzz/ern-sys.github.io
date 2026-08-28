@@ -87,6 +87,10 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [ ] Server Administrator
 	- [ ] Proxmox Learning
 	- [ ] RedHat Server
+- [ ] Git
+	- [ ] Git Bash
+	- [ ] GitHub
+	- [ ] GitHub Actions
 
 ---
 *Last Updated: 2026-04-15*
