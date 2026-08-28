@@ -97,9 +97,9 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 
 # Mini Map & GraphView
 # Documentations of Work x Nusa Putra and KMTech
-[[Mapping AP (Access Point) Fakultas Kedokteran]]     
-[[Autobakup Configuration MikroTik Universitas Nusa Putra]]    
-[[Pendataan Infocus Universitas Nusa Putra]]    
+[[Mapping AP (Access Point) Fakultas Kedokteran]]
+[[Autobakup Configuration MikroTik Universitas Nusa Putra]]   
+[[Pendataan Infocus Universitas Nusa Putra]]
 [[Pendataan Infocus Universitas Nusa Putra|PEMERIKSAAN INFOCUS NUSA PUTRA UNIVERSITY]]    
 [[Limitasi Jaringan di Universitas Nusa Putra - VLAN10.VLAN11.VLAN12.VLAN13]]   
 [[NPM Nginx (Reverse Proxy with One IP Public)]]
