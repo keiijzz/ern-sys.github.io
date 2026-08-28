@@ -26,3 +26,5 @@ Secara nyata, lu sebagai Engineer harus tau masalah apa itu:
 ---
 # Hirarcy of Access Control
 ![[Pasted image 20260828110012.png]]
+
+[[index]]
