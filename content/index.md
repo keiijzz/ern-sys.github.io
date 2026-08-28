@@ -19,12 +19,14 @@ Silakan akses direktori utama dokumentasi melalui link di bawah ini atau melalui
 Berisi catatan teknis seputar pengelolaan server, jaringan (MikroTik/Cisco), dan infrastruktur IT di kampus maupun projek sampingan.
 * *Status: Active Logging*
 
-### 📚 [Journey of Learning](./Journey-of-Learning/)
+### 📚 [Target](./Journey-of-Learning/)
 Tempat tracking progress belajar harian. Fokus saat ini:
-* **DevOps & Cloud** (Docker, CI/CD)
-* **Network Automation** (Python for NetEng)
-* **English Proficiency** (IELTS Preparation)
-
+* **English Proficiency**
+	- IELTS Academic and Test Target Score **Score: 7.5** **[TARGET]**
+	* TOEFL iBT 90+ **[TARGET]**
+* **Linux** How Linux Work
+	* Scripting Command
+	* Network Linux
 ---
 
 ## 🔄 Deployment Workflow
@@ -53,8 +55,8 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 	- [x] Installing Dependencies
 	- [x] Configuration NPM
 	- [x] Split VM/LXC to different Port
-
 - [ ] 
+
 ---
 
 ![[Pasted image 20260416121027.png]]
@@ -67,7 +69,25 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [x] Mastering Linux CLI + Bash Scripting
 - [x] Get TEOFL Certified and i can apply to Scholarship Program
 - [x] Learn IaC (Infrastructure as Code)
-- [ ] Learning Cloud/DevOps with NotebookLM : **Network Programmability and Automation Skills**
+- [x] Learning Cloud/DevOps with NotebookLM : **Network Programmability and Automation Skills**
+- [ ] Dive in Linux
+	- [ ] Understanding how Linux Works
+	- [ ] Understanding how Network Work
+	- [ ] TryHackMe
+	- [ ] OvertheWire
+- [ ] Dive in Python
+	- [ ] Django
+	- [ ] Automation with Python
+- [ ] Dive in Docker
+- [ ] Dive in Networking
+	- [ ] MikroTik Brand
+	- [ ] Cisco Brand
+	- [ ] Jupiter Brand
+	- [ ] Huawei Brand
+- [ ] Server Administrator
+	- [ ] Proxmox Learning
+	- [ ] RedHat Server
+
 ---
 *Last Updated: 2026-04-15*
 
