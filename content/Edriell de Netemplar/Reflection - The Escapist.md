@@ -8,7 +8,7 @@ Ketika kita membedah bait-per-bait secara mendalam, emosi yang tersimpan di dala
 
 That's me locked inside reality's maze"
 
-Bait pembuka ini adalah deskripsi paling menyakitkan tentang depresi atau rasa hampa. Anda bisa saja memiliki kehidupan yang terlihat baik-baik saja dari luar (bagaikan "sangkar emas"), tetapi di dalam hati, Anda merasa terkurung. Jiwa Anda yang indah dan kreatif (sang burung bulbul) tidak bisa bernyanyi bebas karena tersesat di dalam labirin aturan, ekspektasi, dan tuntutan realitas yang rumit.
+Bait pembuka ini adalah deskripsi paling menyakitkan tentang depresi atau rasa hampa. Anda bisa saja memiliki kehidupan yang terlihat baik-baik saja dari luar (bagaikan "sangkar emas"), tetapi di dalam hati, Anda merasa terkurung. Jiwa Anda yang indah dan kreatif (sang burung bulbul) tidak bisa bernyanyi bebas karena tersesat di dalam labirin aturan, tekspektasi, dan tuntutan realitas yang rumit.
 
 ## 2. Kelelahan Mental Akibat Kepalsuan Manusia
 
